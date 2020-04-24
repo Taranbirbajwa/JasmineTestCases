@@ -5,11 +5,13 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './banner-external.component.html',
   styleUrls: ['./banner-external.component.css']
 })
-export class BannerExternalComponent implements OnInit {
+export class BannerComponent implements OnInit {
 
   constructor() { }
 
   ngOnInit(): void {
   }
-
+  title = 'Test Tour of Heroes';
 }
+
+

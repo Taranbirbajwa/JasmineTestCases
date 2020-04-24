@@ -1,15 +1,17 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-banner',
-  templateUrl: './banner.component.html',
-  styleUrls: ['./banner.component.css']
+  template: '<h1>{{title}}</h1>',
+  styles: ['h1 { color: green; font-size: 350%}']
 })
-export class BannerComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
+export class BannerComponent {
+  title = 'Test Tour of Heroes';
 }
+
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+*/
