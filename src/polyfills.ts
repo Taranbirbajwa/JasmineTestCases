@@ -20,36 +20,36 @@
 
 /** IE9, IE10 and IE11 requires all of the following polyfills. **/
 //import 'core-js/es6/symbol';
-import '../node_modules/core-js/es/symbol'
-//import 'core-js/es6/object';
-import '../node_modules/core-js/es/object'
-//import 'core-js/es6/function';
-import '../node_modules/core-js/es/function'
-//import 'core-js/es6/parse-int';
-//import '../node_modules/core-js/es/par'
-//import 'core-js/es6/parse-float';
-//import 'core-js/es6/number';
-import '../node_modules/core-js/es/number'
-//import 'core-js/es6/math';
-import '../node_modules/core-js/es/math'
+// import '../node_modules/core-js/es/symbol'
+// //import 'core-js/es6/object';
+// import '../node_modules/core-js/es/object'
+// //import 'core-js/es6/function';
+// import '../node_modules/core-js/es/function'
+// //import 'core-js/es6/parse-int';
+// //import '../node_modules/core-js/es/p'
+// //import 'core-js/es6/parse-float';
+// //import 'core-js/es6/number';
+// import '../node_modules/core-js/es/number'
+// //import 'core-js/es6/math';
+// import '../node_modules/core-js/es/math'
 
-//import 'core-js/es6/string';
-import '../node_modules/core-js/es/string'
-//import 'core-js/es6/date';
-import '../node_modules/core-js/es/date'
-//import 'core-js/es6/array';
-import '../node_modules/core-js/es/array'
-//import 'core-js/es6/regexp';
-import '../node_modules/core-js/es/regexp'
-//import 'core-js/es6/map';
-import '../node_modules/core-js/es/map'
-//import 'core-js/es6/set';
-import '../node_modules/core-js/es/set'
-/** IE10 and IE11 requires the following for NgClass support on SVG elements */
- import 'classlist.js';  // Run `npm install --save classlist.js`.
+// //import 'core-js/es6/string';
+// import '../node_modules/core-js/es/string'
+// //import 'core-js/es6/date';
+// import '../node_modules/core-js/es/date'
+// //import 'core-js/es6/array';
+// import '../node_modules/core-js/es/array'
+// //import 'core-js/es6/regexp';
+// import '../node_modules/core-js/es/regexp'
+// //import 'core-js/es6/map';
+// import '../node_modules/core-js/es/map'
+// //import 'core-js/es6/set';
+// import '../node_modules/core-js/es/set'
+// /** IE10 and IE11 requires the following for NgClass support on SVG elements */
+//  import 'classlist.js';  // Run `npm install --save classlist.js`.
 
-/** IE10 and IE11 requires the following to support `@angular/animation`. */
-import 'web-animations-js';  // Run `npm install --save web-animations-js`.
+// /** IE10 and IE11 requires the following to support `@angular/animation`. */
+// import 'web-animations-js';  // Run `npm install --save web-animations-js`.
 
 
 /** Evergreen browsers require these. **/
